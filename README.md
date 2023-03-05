@@ -20,7 +20,7 @@ Det är något jag arbetar aktivt med och förhoppningsvis blir jag tillräcklig
 
 ✔️(A) HT2022 DT068G Datateknik GR (B), Webbanvändbarhet, 7,5 hp (distans)
 
-🚧(Inväntar slutbetyg) HT2022 DT200G Datateknik GR (A), Grafisk teknik för webb, 7,5 hp (distans)
+✔️(B) HT2022 DT200G Datateknik GR (A), Grafisk teknik för webb, 7,5 hp (distans)
 
 🚧(Pågående) VT2023 Datateknik GR (B), Webbutveckling II, 7,5 hp (distans)
 
