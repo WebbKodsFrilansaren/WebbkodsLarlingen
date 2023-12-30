@@ -25,7 +25,7 @@ Det är något jag arbetar aktivt med och förhoppningsvis blir jag tillräcklig
 - ✔️(A) HT2023 IK060G Informatik GR (A), Projektledning, 7,5 hp (distans)
 - ✔️(A) HT2023 DT193G Datateknik GR (B), Fullstack-utveckling med ramverk, 7,5 hp (distans)
 - 🚧(Pågår) VT2023 DT162G Datateknik GR (B), Javascriptbaserad webbutveckling, 7,5 hp (distans)
-- 🚧(Pågår) VT2023 DT071G Datateknik GR (A), Programmering i C#.NET, 7,5 hp (distans)
+- 🚧(Inväntar slutbetyg) VT2023 DT071G Datateknik GR (A), Programmering i C#.NET, 7,5 hp (distans)
 <!--
 **WebbkodsLarlingen/WebbkodsLarlingen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
