@@ -2,7 +2,7 @@
 
 Jag kallar mig för WebbKodsLärlingen då jag ser mig som en lärling av webbutveckling. Webbkod betyder att jag kodar enbart för "webben".
 
-Mitt fokus är främst på backend, men i grund och botten är jag - någon gång under 2024 - en fullstackutvecklare med primärfokus på backend.
+Mitt fokus är främst på backend, men i grund och botten är jag - i slutet på maj 2024 - en fullstackutvecklare med primärfokus på backend.
 
 ## Utbildning och spetskompetens
 För närvarande studerar jag Webbutvecklingsprogrammet - på distans - vid Mittuniversitetet i Sundsvall. 
@@ -24,8 +24,11 @@ Det är något jag arbetar aktivt med och förhoppningsvis blir jag tillräcklig
 - ✔️(A) VT2023 DT197G Datateknik GR (B), Webbdesign för CMS, 7,5 hp (distans)
 - ✔️(A) HT2023 IK060G Informatik GR (A), Projektledning, 7,5 hp (distans)
 - ✔️(A) HT2023 DT193G Datateknik GR (B), Fullstack-utveckling med ramverk, 7,5 hp (distans)
+- ✔️(A) VT2023 DT071G Datateknik GR (A), Programmering i C#.NET, 7,5 hp (distans)
+- ✔️(C) VT2014 FÖ032G Företagsekonomi GR (A), Marknadsföring, 7,5 hp
 - 🚧(Pågår) VT2023 DT162G Datateknik GR (B), Javascriptbaserad webbutveckling, 7,5 hp (distans)
-- 🚧(Inväntar slutbetyg) VT2023 DT071G Datateknik GR (A), Programmering i C#.NET, 7,5 hp (distans)
+- 🚧(Pågår) VT2024 DT191G Datateknik GR (B), Webbutveckling med .NET, 7,5 hp (distans)
+- 🚧(Spikat ex-jobb?|V12-V22) VT2024 DT140G Datateknik GR (B), Självständigt arbete, 15 hp
 <!--
 **WebbkodsLarlingen/WebbkodsLarlingen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
