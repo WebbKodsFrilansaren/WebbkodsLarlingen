@@ -27,8 +27,8 @@ Det är något jag arbetar aktivt med och förhoppningsvis blir jag tillräcklig
 - ✔️(A) VT2023 DT071G Datateknik GR (A), Programmering i C#.NET, 7,5 hp (distans)
 - ✔️(C) VT2014 FÖ032G Företagsekonomi GR (A), Marknadsföring, 7,5 hp
 - ✔️(A) VT2023 DT162G Datateknik GR (B), Javascriptbaserad webbutveckling, 7,5 hp (distans)
-- 🚧(Pågår) VT2024 DT191G Datateknik GR (B), Webbutveckling med .NET, 7,5 hp (distans)
-- 🚧(Ex-jobb börjar V12-V22) VT2024 DT140G Datateknik GR (B), Självständigt arbete, 15 hp
+- ✔️(A) VT2024 DT191G Datateknik GR (B), Webbutveckling med .NET, 7,5 hp (distans)
+- 🚧(Pågår) VT2024 DT140G Datateknik GR (B), Självständigt arbete, 15 hp
 <!--
 **WebbkodsLarlingen/WebbkodsLarlingen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
