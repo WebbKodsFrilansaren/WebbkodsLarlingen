@@ -1,8 +1,8 @@
-# Presentation av WebbKodsLärlingen
+# Presentation av WebbKodsFrilansaren
 
-Jag kallar mig för WebbKodsLärlingen då jag ser mig som en lärling av webbutveckling. Webbkod betyder att jag kodar enbart för "webben".
+Jag kallar mig för WebbKodsFrilansaren då jag frilansar inom fullstacks-webbutveckling sedan maj 2024.
 
-Mitt fokus är främst på backend, men i grund och botten är jag - i slutet på maj 2024 - en fullstackutvecklare med primärfokus på backend.
+Min styrka/spetskompetens ligger mer i backend och databaser i bland annat JavaScript/TypeScript och PHP.
 
 ## Utbildning och spetskompetens
 Jag har studerat Webbutvecklingsprogrammet - på distans - vid Mittuniversitetet i Sundsvall. 
