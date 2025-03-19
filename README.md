@@ -5,15 +5,15 @@ Jag kallar mig för WebbKodsLärlingen då jag ser mig som en lärling av webbut
 Mitt fokus är främst på backend, men i grund och botten är jag - i slutet på maj 2024 - en fullstackutvecklare med primärfokus på backend.
 
 ## Utbildning och spetskompetens
-För närvarande studerar jag Webbutvecklingsprogrammet - på distans - vid Mittuniversitetet i Sundsvall. 
+Jag har studerat Webbutvecklingsprogrammet - på distans - vid Mittuniversitetet i Sundsvall. 
 
-Syftet med distansutbildningen är att sedan kunna konsultera på nätet via den så kallade "gig-ekonomin".
+Syftet med distansutbildningen är att i dagsläget konsultera på nätet via den så kallade "gig-ekonomin".
 
 En viktig svaghet att lyfta fram är att jag inte har så starkt sinne för just designbiten, alltså webbdesign.
 
-Det är något jag arbetar aktivt med och förhoppningsvis blir jag tillräckligt bra på det i skarpt läge.
+Däremot kan jag fullfölja en Figma-skiss i frontend-utveckling.
 
-## Pågående och färdiga kurser
+## Färdiga kurser från Webbutvecklingsprogrammet på distans vid MIUN Sundsvall
 - ✔️(B) HT2022 DT057G Datateknik GR (A), Webbutveckling I, 7,5 hp (distans)
 - ✔️(A) HT2022 DT084G Datateknik GR (A), Introduktion till programmering i JavaScript, 7,5 hp (distans)
 - ✔️(A) HT2022 DT068G Datateknik GR (B), Webbanvändbarhet, 7,5 hp (distans)
@@ -28,7 +28,7 @@ Det är något jag arbetar aktivt med och förhoppningsvis blir jag tillräcklig
 - ✔️(C) VT2014 FÖ032G Företagsekonomi GR (A), Marknadsföring, 7,5 hp
 - ✔️(A) VT2023 DT162G Datateknik GR (B), Javascriptbaserad webbutveckling, 7,5 hp (distans)
 - ✔️(A) VT2024 DT191G Datateknik GR (B), Webbutveckling med .NET, 7,5 hp (distans)
-- 🚧(Pågår) VT2024 DT140G Datateknik GR (B), Självständigt arbete, 15 hp
+- ✔️(B) VT2024 DT140G Datateknik GR (B), Självständigt arbete, 15 hp
 <!--
 **WebbkodsLarlingen/WebbkodsLarlingen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
